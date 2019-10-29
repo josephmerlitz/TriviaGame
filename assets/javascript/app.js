@@ -15,7 +15,7 @@ var questions = [{
     answers: ["2", "3", "4", "5"],
     correctAnswer: "3"
 }, {
-    question: "How many birds did Chandler and Joy keep as pets durring the show?",
+    question: "How many birds did Chandler and Joey keep as pets durring the show?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: "2"
 }, {
@@ -23,7 +23,7 @@ var questions = [{
     answers: ["Monica", "Chandler", "Rachel", "Joey"],
     correctAnswer: "Rachel"
 }, {
-    question: "What is Chandlers profesion at the end of the show?",
+    question: "What is Chandlers profession at the end of the show?",
     answers: ["Chef", "Teacher", "Actor", "Advertising"],
     correctAnswer: "Advertising"
 }];
